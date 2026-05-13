@@ -1,0 +1,10 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 30L18 10H22L30 30H26L24.5 26H15.5L14 30H10ZM16.5 22H23.5L20 12.5L16.5 22Z" fill="white" class="logo-text"/>
+  <path d="M35 15C35 12.2386 37.2386 10 40 10C42.7614 10 45 12.2386 45 15C45 17.7614 42.7614 20 40 20C37.2386 20 35 17.7614 35 15Z" fill="#F27D26"/>
+  <style>
+    .logo-text { fill: white; }
+    @media (prefers-color-scheme: light) {
+      .logo-text { fill: #18181b; }
+    }
+  </style>
+</svg>
